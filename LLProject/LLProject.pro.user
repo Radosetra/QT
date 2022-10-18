@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 5.0.2, 2022-10-15T16:41:22. -->
+<!-- Written by QtCreator 5.0.2, 2022-10-18T14:21:29. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -235,8 +235,9 @@
     <valuelist type="QVariantList" key="CustomOutputParsers"/>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/run/media/to/784CF7C94CF78064/L1/NouveauDossier/bosy/QT/LLProject/LLProject.pro</value>
-    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">/run/media/to/784CF7C94CF78064/L1/NouveauDossier/bosy/QT/LLProject/LLProject.pro</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">LLProject2</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/run/media/to/784CF7C94CF78064/L1/NouveauDossier/bosy/Qt project/LLProject/LLProject.pro</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">/run/media/to/784CF7C94CF78064/L1/NouveauDossier/bosy/Qt project/LLProject/LLProject.pro</value>
     <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
     <value type="bool" key="RunConfiguration.UseLibrarySearchPath">true</value>

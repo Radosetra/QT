@@ -22,6 +22,9 @@
   <widget class="QWidget" name="centralwidget">
    <layout class="QVBoxLayout" name="verticalLayout">
     <item>
+     <layout class="QGridLayout" name="gridLayout"/>
+    </item>
+    <item>
      <widget class="QTabWidget" name="tabWidget">
       <property name="font">
        <font>
@@ -63,21 +66,41 @@ border: 1px solid  lightgreen;</string>
        <attribute name="title">
         <string>Liste Generale</string>
        </attribute>
+       <layout class="QVBoxLayout" name="verticalLayout_2">
+        <item>
+         <widget class="QTableView" name="tableView"/>
+        </item>
+       </layout>
       </widget>
       <widget class="QWidget" name="inscription">
        <attribute name="title">
         <string>Inscription</string>
        </attribute>
+       <layout class="QVBoxLayout" name="verticalLayout_3">
+        <item>
+         <widget class="QTableView" name="tableView_2"/>
+        </item>
+       </layout>
       </widget>
       <widget class="QWidget" name="reinscription">
        <attribute name="title">
         <string>Reinscription</string>
        </attribute>
+       <layout class="QVBoxLayout" name="verticalLayout_4">
+        <item>
+         <widget class="QTableView" name="tableView_3"/>
+        </item>
+       </layout>
       </widget>
       <widget class="QWidget" name="finance">
        <attribute name="title">
         <string>Finance</string>
        </attribute>
+       <layout class="QVBoxLayout" name="verticalLayout_5">
+        <item>
+         <widget class="QTableView" name="tableView_4"/>
+        </item>
+       </layout>
       </widget>
      </widget>
     </item>

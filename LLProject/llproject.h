@@ -3,6 +3,10 @@
 
 #include <QMainWindow>
 #include <QPixmap>
+#include <QSqlDatabase>
+#include <QSqlQuery>
+#include <QDebug>
+#include <QMessageBox>
 #include "affichage.h"
 
 QT_BEGIN_NAMESPACE
@@ -23,5 +27,6 @@ private slots:
 private:
     Ui::llproject *ui;
     affichage *Affichage;
+    QSqlDatabase userDB;
 };
 #endif // LLPROJECT_H
