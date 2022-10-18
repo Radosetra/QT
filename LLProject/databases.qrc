@@ -1,6 +1,0 @@
-<RCC>
-    <qresource prefix="/Login">
-        <file>login.db</file>
-        <file>login_pass.sqbpro</file>
-    </qresource>
-</RCC>
