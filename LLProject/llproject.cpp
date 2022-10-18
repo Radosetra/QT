@@ -33,7 +33,6 @@ void llproject::on_pushButton_clicked()
 
     if(!userDB.isOpen()){
         qDebug()<<"Failed to open the database";
-        QMessageBox::warning(this,"Error","Couldn't open the database");
         return;
     }
     QSqlQuery usr_qry;
